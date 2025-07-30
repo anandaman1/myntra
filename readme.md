@@ -1,3 +1,30 @@
+# 🛍️ MyntraByMe
+
+Welcome to **MyntraByMe** — a minimal clone of the popular e-commerce platform **Myntra**, built using **React**. This project focuses on creating a clean, component-based UI and implementing real-world features like sorting and reusable layouts.
+
+---
+
+## 🚀 Features
+
+- 🔹 **Responsive Header** with filter dropdown  
+- 🔹 **Product Cards** with image, price, and styling  
+- 🔹 **Price Sorting**:  
+  - Low to High  
+  - High to Low  
+- 🔹 Modular component structure (Header, Cards, Footer)
+- 🔹 Fully functional using React state and hooks
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (with Hooks)
+- **JavaScript (ES6+)**
+- **HTML5 + CSS3**
+- **Parcel** bundler
+
+---
+
 # 🛍️ MyntraByMe – React Mini Project
 
 A simple yet functional frontend clone of Myntra that allows product sorting using React and Parcel.
